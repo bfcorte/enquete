@@ -1,0 +1,15 @@
+{
+    "name": "Enquetes",
+    "version": "1.0.0",
+    "description": "API RESTful para aplicacao de Enquete",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Bruno Felipe (@bfcorte)",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "express": "^4.15.4"
+    }
+}
